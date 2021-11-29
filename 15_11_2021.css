@@ -33,7 +33,7 @@ p.centered {
 }
 
 h1 {
-  text align: center;
+  text-align: center;
   border: thick solid red;
   text-decoration: none;
   padding: 1ex;
